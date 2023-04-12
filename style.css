@@ -1,0 +1,11 @@
+body {
+	background-color: black;
+	color: white;
+}
+.navbar {
+	background-color: skyblue;
+}
+
+#jbimg {
+	width: 200px;
+}
