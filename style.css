@@ -5,7 +5,13 @@ body {
 .navbar {
 	background-color: deepskyblue;
 }
-
+.currentPage {
+	color: white;
+}
+.link {
+	background-color: deepskyblue;
+	color: black
+}
 #jbimg {
 	width: 200px;
 }
